@@ -147,7 +147,7 @@ export default function Footer() {
             <div className="border-t border-white/5 bg-black/40">
                 <div className="max-w-6xl mx-auto px-6 py-6">
                     <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-gray-500 font-medium">
-                        <div>
+                        <div suppressHydrationWarning>
                             © {currentYear} Himanshu Raj Yadav. All rights reserved.
                         </div>
 

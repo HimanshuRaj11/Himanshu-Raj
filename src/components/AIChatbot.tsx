@@ -16,7 +16,7 @@ const AIChatbot = () => {
         {
             sender: 'bot',
             text: "Hi there! I'm Himanshu's AI clone. Ask me anything about his projects, technical skills, college background, or hiring options!",
-            time: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+            time: "Just now"
         }
     ])
     const [inputValue, setInputValue] = useState('')
