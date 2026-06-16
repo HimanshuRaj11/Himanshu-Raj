@@ -54,12 +54,12 @@ const About = () => {
                                 Hi, I{"'"}m <span className="text-blue-400">Himanshu Raj Yadav</span>
                             </h3>
                             <p className="text-gray-400 text-sm font-semibold uppercase tracking-wider flex items-center gap-2">
-                                <Award size={16} className="text-blue-400" /> B.Tech Undergraduate
+                                <Award size={16} className="text-blue-400" /> B.Tech Graduate
                             </p>
                         </div>
                         
                         <p className="text-gray-300 text-base sm:text-lg leading-relaxed">
-                            I am a dedicated full-stack developer and AI/ML enthusiast pursuing my B.Tech degree from the **Chandigarh Group of Colleges**. I have a deep-seated passion for constructing innovative, high-performance web systems that bridge user needs and elegant code.
+                            I am a dedicated full-stack developer and AI/ML enthusiast who graduated with a B.Tech in Computer Science from the **Chandigarh Group of Colleges**. I have a deep-seated passion for constructing innovative, high-performance web systems that bridge user needs and elegant code.
                         </p>
                         
                         <p className="text-gray-300 text-base sm:text-lg leading-relaxed">

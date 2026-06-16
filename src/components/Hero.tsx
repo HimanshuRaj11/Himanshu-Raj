@@ -87,7 +87,7 @@ const Hero = () => {
                             </span>
                         </h2>
                         <p className="text-base sm:text-lg lg:text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed mt-4">
-                            Pursuing B.Tech from Chandigarh Group of Colleges. Designing full-stack web architectures and intelligent models that turn complexity into clean digital elegance.
+                            B.Tech Graduate from Chandigarh Group of Colleges. Designing full-stack web architectures and intelligent models that turn complexity into clean digital elegance.
                         </p>
                     </div>
 

@@ -18,7 +18,7 @@ const Experience = () => {
             title: 'B.Tech in Computer Science',
             company: 'Chandigarh Group of Colleges',
             period: '2022 - 2026',
-            description: 'Pursuing undergraduate degree in Computer Science and Engineering. Deep-diving into core concepts such as Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, and Machine Learning algorithms. Led multiple technical teams for academic projects and hackathons.',
+            description: 'Graduated with a Bachelor of Technology in Computer Science and Engineering. Deep-dived into core computational domains including Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, and Machine Learning algorithms. Led multiple technical teams for academic projects and hackathons.',
             technologies: ['Java', 'Python', 'SQL', 'Machine Learning', 'Data Structures', 'Software Engineering']
         },
         {

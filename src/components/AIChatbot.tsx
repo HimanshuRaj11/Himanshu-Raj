@@ -46,7 +46,7 @@ const AIChatbot = () => {
         }
 
         if (q.includes('study') || q.includes('education') || q.includes('college') || q.includes('cgc') || q.includes('school')) {
-            return "Himanshu is currently pursuing a **B.Tech in Computer Science and Engineering** at the **Chandigarh Group of Colleges (CGC)**, graduating in 2026. He maintains excellent academics and applies computer science concepts to production-grade software."
+            return "Himanshu completed his **B.Tech in Computer Science and Engineering** from the **Chandigarh Group of Colleges (CGC)** in 2026. He maintained excellent academic marks and applies core computing theories to build production-grade web systems."
         }
 
         if (q.includes('hire') || q.includes('freelance') || q.includes('job') || q.includes('contract') || q.includes('available')) {
